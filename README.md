@@ -19,4 +19,4 @@ The system assigns each ticket a unique #ID  and routes it to the appropriate te
 
 **## Team**
 
-This project is maintained by BFH TechOps team which is responsible for building new features and fixing bugs and issues within the ticketing system as L2 support.
+This project is maintained by BFH TechOps team which is responsible for building new features and fixing tickets and issues within the ticketing system as L2 support.
